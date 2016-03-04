@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: idea menagerist and menagerie of ideas
-datePublished: '2016-03-04T21:02:28.019Z'
-dateModified: '2016-03-04T20:48:46.423Z'
+datePublished: '2016-03-04T21:04:58.828Z'
+dateModified: '2016-03-04T21:03:25.457Z'
 title: 'animal prufrock '
 author: []
 sourcePath: _posts/2016-03-04-animal-prufrock.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: animal-prufrock/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bc267c3-d41a-490c-9b7a-761e46eb61d8.jpg)
