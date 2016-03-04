@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ...idea menagerist and menagerie of ideas...
-datePublished: '2016-03-04T22:23:14.506Z'
-dateModified: '2016-03-04T22:22:40.063Z'
-title: 'animal prufrock '
+description: "'idea menagerist and menagerie of ideas'"
+datePublished: '2016-03-04T22:27:46.758Z'
+dateModified: '2016-03-04T22:23:17.856Z'
+title: "'animal prufrock'"
 author: []
 sourcePath: _posts/2016-03-04-animal-prufrock.md
 published: true
