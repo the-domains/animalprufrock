@@ -1,0 +1,28 @@
+name: animalprufrock
+favicon: null
+layout_spectrum: 0.5404889949131757
+typography_spectrum: 0.2258555879816413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.022545853396877646
+  lightness: 0.8858130879234523
+  saturation: 0.28857256937772036
+  rhythmicContrast: 0.08485816814936697
+purpose: []
