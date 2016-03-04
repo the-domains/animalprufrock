@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "'idea menagerist and menagerie of ideas'"
-datePublished: '2016-03-04T22:27:46.758Z'
-dateModified: '2016-03-04T22:23:17.856Z'
+datePublished: '2016-03-04T22:29:24.598Z'
+dateModified: '2016-03-04T22:28:39.407Z'
 title: "'animal prufrock'"
 author: []
 sourcePath: _posts/2016-03-04-animal-prufrock.md
