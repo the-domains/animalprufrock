@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'im standing by a brick wall - did you ever read "notes from underground" ?'
-datePublished: '2016-03-05T00:42:20.945Z'
-dateModified: '2016-03-05T00:36:01.526Z'
+datePublished: '2016-03-05T00:45:42.231Z'
+dateModified: '2016-03-05T00:42:29.903Z'
 title: animalhead
 author: []
 sourcePath: _posts/2016-03-05-animalhead.md
