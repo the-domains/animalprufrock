@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ...idea menagerist and menagerie of ideas...
-datePublished: '2016-03-05T02:13:33.356Z'
-dateModified: '2016-03-05T02:13:30.361Z'
+datePublished: '2016-03-05T02:23:17.061Z'
+dateModified: '2016-03-05T02:23:14.330Z'
 title: ...animal prufrock...
 author: []
 sourcePath: _posts/2016-03-04-animal-prufrock.md
@@ -24,4 +24,4 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bc267c3-d41a-490c-9b7a-761e46eb61d8.jpg)
 
-idea menagerist                       ...menagerie of ideas await liberation...
+"idea menagerist"   rhizomatic menagerie of ideas await liberation...
