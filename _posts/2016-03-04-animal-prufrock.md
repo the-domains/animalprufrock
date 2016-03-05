@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ...idea menagerist and menagerie of ideas...
-datePublished: '2016-03-05T03:52:37.361Z'
-dateModified: '2016-03-05T03:51:58.665Z'
+datePublished: '2016-03-05T03:54:52.904Z'
+dateModified: '2016-03-05T03:52:44.446Z'
 title: ...animal prufrock...
 author: []
 sourcePath: _posts/2016-03-04-animal-prufrock.md
