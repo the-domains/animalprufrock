@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'im standing by a brick wall - did you ever read "notes from underground" ?'
-datePublished: '2016-03-05T00:34:13.492Z'
-dateModified: '2016-03-05T00:34:09.114Z'
+datePublished: '2016-03-05T00:42:20.945Z'
+dateModified: '2016-03-05T00:36:01.526Z'
 title: animalhead
 author: []
+sourcePath: _posts/2016-03-05-animalhead.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-animalhead.md
-published: true
 url: animalhead/index.html
 _type: Article
 
